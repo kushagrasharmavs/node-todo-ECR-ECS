@@ -127,7 +127,7 @@ Real-world cloud deployment experience.
 
 
 
-🙏 Credits
+ Credits
 
 This project is inspired by
 TrainWithShubham YouTube Channel
